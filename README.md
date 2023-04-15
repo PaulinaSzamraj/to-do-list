@@ -5,7 +5,7 @@
 ## Demo
 https://paulinaszamraj.github.io/to-do-list/
 
-## Descriptio
+## Description
 This page is a simple to-do list website. You can add your tasks and decide if they are done or not, you can also delete your tasks. Thanks to this website you'll never forget anything.
 
 ## Features
