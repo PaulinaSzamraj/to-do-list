@@ -1,6 +1,6 @@
 # To do list
 
-![enter image description here](https://i.postimg.cc/ZKwCMHqh/screencapture-paulinaszamraj-github-io-to-do-list-2023-04-15-14-00-19.png)
+![enter image description here](https://i.ibb.co/J2qSgCn/to-do-list.png)
 
 ## Demo
 https://paulinaszamraj.github.io/to-do-list/
